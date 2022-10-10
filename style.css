@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    padding: 5px;
+}
+.applink{
+    width: 140px;
+    height: 38px;
+    padding: 4px;
+}
+.footerlogo{
+    width: 120px;
+    height: 50px;
+}
+.text-reset{
+    text-decoration: none;
+}
+.card-img-top{
+    width:100%;
+    height: 250px;
+    object-fit: contain;
+}
+.adminlogo{
+    width: 100px;
+    height: 100px;
+}
+/* .footer{
+    position: absolute;
+    bottom: 0;
+} */
+
